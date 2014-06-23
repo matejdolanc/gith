@@ -30,7 +30,8 @@
   },
   "dependencies": {
     "eventemitter2" : ">= 0.4.9" ,
-    "lodash": ">= 0.3.2"
+    "lodash": ">= 0.3.2",
+    "range_check": ">= 0.0.4"
   },
   "devDependencies": {
     "grunt": "~0.3.14"
